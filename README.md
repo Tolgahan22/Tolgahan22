@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tolgahan
-- 👀 I’m interested in Programming Ios 
+- 👀 I’m interested in Ios Programming
 - 🌱 I’m currently learning Swift
 
 
