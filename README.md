@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tolgahan22
-- 👀 I’m interested in swift code
-- 🌱 I’m currently learning swift
+- 👋 Hi, I’m @Tolgahan
+- 👀 I’m interested in Programming Ios 
+- 🌱 I’m currently learning Swift
 
 
 <!---
